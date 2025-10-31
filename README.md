@@ -9,7 +9,7 @@
 <br>
 
 # 💫 Sobre mi:
-🚀 Desarrollador de Sistemas Full stack<br>
+🚀 Desarrollador Backend<br>
 💻 Amante de la Programación y entusiasta del aprendizaje diario.<br>
 📘 Eclesiaste 11:4 NBV.<br>
 🌟 La vida me da motivos para seguir.
