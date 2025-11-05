@@ -9,7 +9,7 @@
 <br>
 
 # 💫 Sobre mi:
-🚀 Desarrollador Backend<br>
+🚀 Desarrollador Backend y Movil<br>
 💻 Amante de la Programación y entusiasta del aprendizaje diario.<br>
 📘 Eclesiaste 11:4 NBV.<br>
 🌟 La vida me da motivos para seguir.
@@ -26,7 +26,6 @@
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg"> </code>
 </p>
