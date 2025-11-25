@@ -9,7 +9,7 @@
 <br>
 
 # 💫 Sobre mi:
-🚀 Desarrollador Backend y Móvil<br>
+🚀 Mi objetivo es poder convertirme en un excelente desarrollador Backend/Web/Movil sólido y ser parte de comunidades tecnológicas.<br>
 💻 Amante de la Programación y entusiasta del aprendizaje diario.<br>
 📘 Eclesiaste 11:4 NBV.<br>
 🌟 La vida me da motivos para seguir.
