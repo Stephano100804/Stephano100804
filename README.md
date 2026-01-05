@@ -19,7 +19,7 @@
 <br>
 <br>
 
-# 🌍 Lenguajes de Programación:
+# 🌍 Lenguajes y Frameworks de Programación:
 
 <p align="center">
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> </code>
